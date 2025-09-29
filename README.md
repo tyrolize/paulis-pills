@@ -30,4 +30,4 @@ We adapt **few‑sample QML generalization validation** (from medical imaging) t
 - **Johannes Mosbacher (FHNW)** — PK/PD & biomarkers.  
 - **Martin Kuentz (FHNW)** — dosage forms & clinical relevance.  
 - **Abdullah Kahraman (FHNW/SIB)** — data science & reproducibility.  
-- **Nicolas Piro** — quantum optics/ML perspective.
+- **Nicolas Piro (Sony Advanced Visual Sensing AG (Zurich, Switzerland))** — quantum optics/ML perspective.
