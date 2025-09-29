@@ -1,14 +1,11 @@
-# Team
+# Team (official participants and contributors)
 
 **Official participants (2):**
-- Artemiy Burov (FHNW)
 - Leena Anthony (FHNW)
+- Artemiy Burov (FHNW)
 
 **Contributors:**
 - Johannes Mosbacher (FHNW)
 - Martin Kuentz (FHNW)
-- Abdullah Kahraman (FHNW/SIB)
+- Abdullah Kahraman (FHNW / SIB)
 - Nicolas Piro (Sony Advanced Visual Sensing AG (Zurich, Switzerland))
-
-**Roles (concise):**
-- Quantum methods & encodings; evaluation protocols; PK/PD guidance; dosage forms; reproducibility; optics/ML support.

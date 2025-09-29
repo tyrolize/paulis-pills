@@ -1,12 +1,6 @@
-# Byte-compiled / cache
 __pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-
-# Environments
 .venv/
-.env
-
-# OS
+.ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+outputs/
