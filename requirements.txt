@@ -1,0 +1,5 @@
+# Minimal, only if you later add demo code
+numpy
+pandas
+scikit-learn
+pyyaml
