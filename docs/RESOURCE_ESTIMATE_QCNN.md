@@ -7,4 +7,4 @@ With S=1024 shots, T=150 steps, and k=5 folds:
 
 **Hardware:** CPU (8–16 vCPU), RAM (20–32 GB).  
 **Wall-time:** ~2–6 h depending on simulator and parallelism.  
-**Notes:** Weekly model uses 7 qubits; per-circuit cost rises, not shot count. You may halve shots (512) or steps (≤100) if needed.
+**Notes:** Weekly model uses 7 qubits; per-circuit cost rises, not shot count. We may halve shots (512) or steps (≤100) if needed.
