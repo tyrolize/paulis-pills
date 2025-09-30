@@ -24,10 +24,10 @@ We adapt **few‑sample QML generalization validation** (from medical imaging) t
 - MPS: CPU 8–16 vCPU, 8–16 GB RAM, ~1–2 h
 - Optional GPU (deep surrogates only): 1× L4/A100 for ~2–4 h
 
-## Team (light roles)
+## Team
 - **Leena Anthony (FHNW)** — QML **generalization** on small medical datasets; protocol & evaluation lead.  
 - **Artemiy Burov (FHNW)** — quantum algorithms & **Hamiltonian simulation**; encodings & circuits (e.g., arXiv:2404.17548).  
 - **Johannes Mosbacher (FHNW)** — PK/PD & biomarkers.  
 - **Martin Kuentz (FHNW)** — dosage forms & clinical relevance.  
 - **Abdullah Kahraman (FHNW/SIB)** — data science & reproducibility.  
-- **Nicolas Piro (Sony Advanced Visual Sensing AG (Zurich, Switzerland))** — quantum optics/ML perspective.
+- **Nicolas Piro (Sony Advanced Visual Sensing AG (Zurich, Switzerland))** — ML perspective.
